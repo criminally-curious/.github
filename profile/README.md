@@ -1,4 +1,4 @@
-![Criminally Curious. Hack the planet. A chrome cable question mark with lime lettering and magenta orbits on cobalt.](./assets/banner.png)
+![Criminally Curious. Their only crime was curiosity. A holographic pirate smiley over pink and purple collage graphics with yellow lettering.](./assets/banner-smiley-v2.png)
 
 # Curiosity, code, and collective mischief.
 

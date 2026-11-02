@@ -1,24 +1,36 @@
 # Criminally Curious artwork
 
-The avatar is a chrome cable question mark with an acid-lime pixel dot and a magenta orbit against cobalt. The banner carries that symbol alongside the organization name and a short film-inspired slogan. Both are original generated artwork; the supplied movie poster served as thematic context.
+The current direction comes from villageAlchemist's supplied picture: a black-outlined pirate smiley with a pastel holographic face, over a pink and purple movie-poster collage. Yellow lettering and concentric rings carry the 1990s cyber-rave feel into the wide banner.
+
+The supplied avatar is copied unchanged. The new banner was generated using that image as its visual reference, keeping the smiley's single oval eye, eyepatch, and smile recognizable.
 
 ## Working palette
 
 ```text
-Electric cobalt: #1010C7
-Hot magenta:    #F20DE8
-Acid lime:      #B5FF00
-Near black:     #08091D
-Chrome white:   #F5F6FF
+Acid yellow:       #F7F50A
+Hot pink:          #EF3CA6
+Violet:            #7234A8
+Holographic mint:  #A4E4DB
+Holographic pink:  #E6B9EE
+Near black:        #100F09
 ```
 
 ## Files
 
 ```text
-avatar-original.png          Full-resolution square source
-../profile/assets/avatar.png Avatar upload derivative, 512 by 512 pixels
-../profile/assets/banner.png Wide profile banner, 2172 by 724 pixels
-prompts.md                   Exact generation prompts
+../profile/assets/avatar-smiley.png     Supplied avatar, 250 by 250 pixels
+../profile/assets/banner-smiley-v2.png  Current wide profile banner
+prompts.md                             Exact generation prompts
 ```
 
-The built-in image generation tool produced both originals. The avatar upload derivative was prepared with macOS image tooling to meet GitHub's upload size requirements. Keep the source artwork when preparing future sizes.
+The built-in image generation tool produced the new banner. No generation or image editing was applied to the supplied avatar. Keep it at its original resolution when uploading it as the organization picture.
+
+## Previous direction
+
+The earlier chrome cable question-mark artwork is retained for reference. It is not the current avatar or banner direction.
+
+```text
+avatar-original.png           Full-resolution generated chrome avatar
+../profile/assets/avatar.png  Previous 512-pixel upload derivative
+../profile/assets/banner.png  Previous chrome banner
+```
