@@ -1,0 +1,19 @@
+name: Bring your curiosity
+description: Ask a question, sketch an idea, or tell us where the instructions lost you.
+title: "Question: "
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: What's on your mind?
+      description: Start with the thing you are trying to understand or make.
+      placeholder: One good question is enough to start.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: What would help us understand it?
+      description: Add what you tried, a project link, or a small example. Keep private details in the relevant collaborator space.
+    validations:
+      required: false
