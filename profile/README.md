@@ -29,7 +29,7 @@ Working from a phone? You can write, review, discuss, and propose edits. A colla
 
 Beginners belong here. So do people who have been doing this forever and still have questions.
 
-[Bring your curiosity](../CONTRIBUTING.md) · [Ask a question](https://github.com/criminially-curious/.github/issues/new/choose) · [Find villageAlchemist](https://villagealchemist.com/)
+[Bring your curiosity](../CONTRIBUTING.md) · [Ask a question](https://github.com/criminally-curious/.github/issues/new/choose) · [Find villageAlchemist](https://villagealchemist.com/)
 
 ---
 

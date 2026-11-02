@@ -8,7 +8,7 @@ The source is a private collaborator project. Existing collaborators have a cont
 
 The learning path starts with a small feature someone can own, tests they can understand, and review before deployment. Optional teaching inside Discord is part of the direction being explored. Project documentation records what is implemented and what remains a proposal.
 
-Interested in helping? [Ask a question](https://github.com/criminially-curious/.github/issues/new/choose) with what you want to work on. Keep private project details in its existing collaborator spaces.
+Interested in helping? [Ask a question](https://github.com/criminally-curious/.github/issues/new/choose) with what you want to work on. Keep private project details in its existing collaborator spaces.
 
 ## IconForge
 
